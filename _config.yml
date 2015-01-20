@@ -6,18 +6,18 @@ permalink:	/blog/:title
 # Setup
 baseurl: /Thinny/
 
-title:		Thinny
-tagline:	'blog'
-description:	'My personal blog.'
-url:		http://camporez.com
+title:		Mixed Media Studios
+tagline:	'Instant Karma'
+description:	'Your own personal animation studio'
+url:		http://mixedmediastudios.org/
 commentsystem:	google
 disqus:		example
 
 author:
-  name:		'Ian Camporez Brunelli'
-  url:		https://google.com/+IanCamporezBrunelli
+  name:		'Mixed Media Studios'
+  url:		http://www.mixedmediastudios.org/
 
-paginate:	5
+paginate:	10
 
 # Custom vars
 icon:		/Thinny/assets/images/icon.png
@@ -48,8 +48,8 @@ menu:
     url:	/Thinny/about
 
 copyright:
-  author:	Camporez
-  url:		http://camporez.com
+  author:	Mixed Media Studios
+  url:		http://www.mixedmediastudios.org
   type_title:	Some rights reserved
   type_url:	http://creativecommons.org/licenses/by-nc/2.5
 
