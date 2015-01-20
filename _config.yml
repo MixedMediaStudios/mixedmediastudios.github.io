@@ -20,8 +20,8 @@ author:
 paginate:	5
 
 # Custom vars
-icon:		/assets/images/icon.png
-cover:		/assets/images/cover.jpg
+icon:		/Thinny/assets/images/icon.png
+cover:		/Thinny/assets/images/cover.jpg
 
 social:
   - icon:	twitter
@@ -42,10 +42,10 @@ social:
 
 menu:
   - title:	Home
-    url:	/
+    url:	/Thinny
 
   - title:	About
-    url:	/about
+    url:	/Thinny/about
 
 copyright:
   author:	Camporez
