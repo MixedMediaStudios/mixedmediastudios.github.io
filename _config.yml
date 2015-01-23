@@ -21,7 +21,8 @@ paginate:	10
 
 # Custom vars
 icon:		/Thinny/assets/images/icon.png
-cover:		/Thinny/assets/images/cover.jpg
+cover:	https://lh4.googleusercontent.com/-d2_moJjARgs/VIzbGUwrF0I/AAAAAAAAAFg/J_500ckvaYc/w1920-h1080-no/cover.jpg
+# /Thinny/assets/images/cover.jpg
 
 social:
   - icon:	twitter
