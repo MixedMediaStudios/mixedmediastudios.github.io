@@ -4,7 +4,7 @@ markdown:	redcarpet
 permalink:	/blog/:title
 
 # Setup
-baseurl: /
+baseurl: 
 
 title:		Mixed Media Studios
 tagline:	'Instant Karma'
