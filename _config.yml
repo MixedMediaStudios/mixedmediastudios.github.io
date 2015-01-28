@@ -25,20 +25,20 @@ cover:	https://lh4.googleusercontent.com/-d2_moJjARgs/VIzbGUwrF0I/AAAAAAAAAFg/J_
 # /Thinny/assets/images/cover.jpg
 
 social:
-  - icon:	twitter
-    url:	https://twitter.com/iancamporez
-    desc:	Follow me on twitter
+  - icon:	facebook
+    url:	https://facebook.com/TheMixedMediaStudios
+    desc:	Follow me on facebook
 
   - icon:	github
-    url:	https://github.com/camporez
+    url:	https://github.com/MixedMediaStudios
     desc:	Fork me on github
 
   - icon:	googleplus-alt
-    url:	https://google.com/+IanCamporezBrunelli
+    url:	https://plus.google.com/b/117832163283159184453/117832163283159184453/
     desc:	Add me on google+
 
   - icon:	feed
-    url:	http://camporez.com/atom.xml
+    url:	http://mixedmediastudios.org/atom.xml
     desc:	Subscribe to my feed
 
 menu:
