@@ -27,6 +27,7 @@ header, footer {
 header a, footer a {
 	transition-duration: .25s;
 	text-decoration: none;
+	transition-property: width, height, background-size, margin, opacity;
 }
 
 footer {
