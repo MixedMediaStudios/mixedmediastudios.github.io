@@ -48,7 +48,7 @@ menu:
   - title:	About
     url:	/about
   - title: Demos
-    url: /demo
+    url: /demo.html
 
 copyright:
   author:	Mixed Media Studios
