@@ -126,6 +126,7 @@ h3 {
 	height: 100px;
 	background-size: 100px;
 	margin: -120px 0 0 -50px;
+	transition-property: width, height, background-size, margin, opacity;
 }
 
 .site-icon-small {
