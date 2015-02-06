@@ -10,7 +10,7 @@ Mixed Media is a group of three high school students with a specialty in compute
 
 ### Hiring Information
 
-The current service offered by Mixed Media studios is a professional gif production. Currently we have experience in 2D/3D animation, graphic design, and live video. We proudly accept cryptocurrency as well as PayPal. Contact Owen for more details
+The current service offered by Mixed Media studios is a professional gif production. Currently we have experience in 2D/3D animation, graphic design, and live video. We proudly accept cryptocurrency as well as actual currency. Contact Owen for more details
 
 ### Contact us
 
