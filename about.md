@@ -6,11 +6,23 @@ permalink: /about/
 
 ### History
 
-Mixed Media is a group of three high school students with a specialty in computer animation. They've competed in the Business Professional of America computer animation team competition and became national finalists. They eventually hope to take this talent from a hobby to a career.
+Mixed Media is a group of three high school students with a specialty in computer animation. They can do 2D/3D animation, visual effects, graphic design and probably more. They've competed in the Business Professional of America computer animation team competition and became national finalists. They eventually hope to take this talent from a hobby to a career.
 
 ### Hiring Information
 
-The current service offered by Mixed Media studios is a professional gif production. Currently we have experience in 2D/3D animation, graphic design, and live video. We proudly accept cryptocurrency as well as actual currency. Contact Owen for more details
+#### Paypal pricing
+
+For each | Add this
+--------|--------
+Second of video | $0.10
+Hour of work | $4.50
+
+#### Dogecoin pricing (cheaper, because less fees.)
+
+For each | Add this
+--------|--------
+Second of video | 2000 dogecoin
+Hour of work | 20000 doge
 
 ### Contact us
 
