@@ -14,8 +14,8 @@ Mixed Media is a group of three high school students with a specialty in compute
 
 For each | Add this
 --------|--------
-Second of video | $0.10 USD
-Hour of work | $4.50 USD
+Second of video | $0.50 USD
+Hour of work | $2.50 USD
 
 #### Bitcoin pricing (cheaper, because less fees.)
 
