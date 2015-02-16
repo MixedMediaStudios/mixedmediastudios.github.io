@@ -57,7 +57,7 @@ copyright:
   type_url:	https://github.com/camporez/Thinny
 
 # Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
-google_analytics:
+google_analytics: UA-57707910-1
 
 # Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
 theme_color: 7E9576
