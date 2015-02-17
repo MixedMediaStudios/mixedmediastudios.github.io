@@ -18,6 +18,7 @@ Second of video | $0.50 USD
 Hour of work | $2.50 USD
 
 #### Bitcoin pricing (cheaper, because less fees.)
+![](//i.imgur.com/wQQPl8D.png)
 
 For each | Add this
 --------|--------
@@ -25,6 +26,7 @@ Second of video | 0.0005 BTC
 Hour of work | 0.01 BTC
 
 #### Dogecoin pricing (cheaper, because less fees.)
+![](//i.imgur.com/QYzkChT.png)
 
 For each | Add this
 --------|--------
