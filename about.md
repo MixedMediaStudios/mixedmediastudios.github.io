@@ -11,6 +11,7 @@ Mixed Media is a group of three high school students with a specialty in compute
 ### Hiring Information
 
 #### Paypal pricing
+![](http://thecookiecatcher.com/wp-content/uploads/2014/08/PayPal_Logo.jpg)
 
 For each | Add this
 --------|--------
