@@ -18,6 +18,7 @@ author:
   url:		http://www.mixedmediastudios.org/
 
 paginate:	10
+paginate_path: "blog/page:num/"
 
 # Custom vars
 icon:		https://avatars1.githubusercontent.com/u/10189614?v=3&s=500
