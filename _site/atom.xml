@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Mixed Media Studios</title>
+ <link href="http://mixedmediastudios.org//atom.xml" rel="self"/>
+ <link href="http://mixedmediastudios.org//"/>
+ <updated>2015-02-18T14:54:45-05:00</updated>
+ <id>http://mixedmediastudios.org/</id>
+ <author>
+   <name>Mixed Media Studios</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Pricing information is now availible</title>
+   <link href="http://mixedmediastudios.org//blog/Pricing"/>
+   <updated>2015-02-14T00:00:00-05:00</updated>
+   <id>http://mixedmediastudios.org//blog/Pricing</id>
+   <content type="html">&lt;p&gt;We finally have published pricing information I’m happy to say. While we’re going to keep up the information at it’s permanent location which is on our &lt;a href=&quot;/about&quot;&gt;about&lt;/a&gt; page. I’ll also go ahead and paste the tables here as well. Keep in mind we do update these tables occasionally so be sure you do look at our about page before ordering.&lt;/p&gt;
+
+&lt;h4 id=&quot;paypal-pricing&quot;&gt;Paypal pricing&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;For each&lt;/th&gt;
+      &lt;th&gt;Add this&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Second of video&lt;/td&gt;
+      &lt;td&gt;$0.50 USD&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Hour of work&lt;/td&gt;
+      &lt;td&gt;$2.50 USD&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;bitcoin-pricing-cheaper-because-less-fees&quot;&gt;Bitcoin pricing (cheaper, because less fees.)&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;For each&lt;/th&gt;
+      &lt;th&gt;Add this&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Second of video&lt;/td&gt;
+      &lt;td&gt;0.0005 BTC&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Hour of work&lt;/td&gt;
+      &lt;td&gt;0.01 BTC&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;dogecoin-pricing-cheaper-because-less-fees&quot;&gt;Dogecoin pricing (cheaper, because less fees.)&lt;/h4&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;For each&lt;/th&gt;
+      &lt;th&gt;Add this&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Second of video&lt;/td&gt;
+      &lt;td&gt;2000 XDG&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Hour of work&lt;/td&gt;
+      &lt;td&gt;20000 XDG&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Our newest animation</title>
+   <link href="http://mixedmediastudios.org//blog/BPASLC"/>
+   <updated>2015-01-29T00:00:00-05:00</updated>
+   <id>http://mixedmediastudios.org//blog/BPASLC</id>
+   <content type="html">&lt;p&gt;This is our work for the Business Professionals of America state competition. Should we make it to nationals we’ll revise this animation to make it even better. Stay tuned!
+&lt;video id=&quot;edzIQIYGPXo&quot; class=&quot;sublime&quot; poster=&quot;//img.youtube.com/vi/edzIQIYGPXo/hqdefault.jpg&quot; width=&quot;640&quot; height=&quot;360&quot; title=&quot;BPA State 2015&quot; data-sharing-url=&quot;http://www.mixedmediastudios.org/blog/BPASLC/&quot; data-sharing-title=&quot;Our newest animation&quot; data-sharing-text=&quot;This is our work for the Business Professionals of America state competition. Should we make it to nationals we&#39;ll revise this animation to make it even better. Stay tuned!&quot; data-uid=&quot;edzIQIYGPXo&quot; data-youtube-id=&quot;edzIQIYGPXo&quot; preload=&quot;none&quot;&gt;
+&lt;/video&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>FAQs of sorts</title>
+   <link href="http://mixedmediastudios.org//blog/AMA"/>
+   <updated>2015-01-11T00:00:00-05:00</updated>
+   <id>http://mixedmediastudios.org//blog/AMA</id>
+   <content type="html">&lt;p&gt;Well… that went well. The AMA’s we put on &lt;a href=&quot;http://www.reddit.com/r/IAmA/comments/2rjy47/iama_new_business_opening_today_by_redditors_for/&quot;&gt;/r/IAmA&lt;/a&gt; and &lt;a href=&quot;http://www.reddit.com/r/casualiama/comments/2rkwgq/we_are_a_business_opening_today_by_redditors_for/&quot;&gt;/r/CasualIAMA&lt;/a&gt; both went well. Here’s some of our favorite questions (and their answers) in order of date.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;So you make animations? Do I have to pay to get an animation? Or do you just make one?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;– &lt;a href=&quot;http://www.reddit.com/user/davidcarpenter122333&quot;&gt;davidcarpenter122333&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We are charging a flexible rate for each gif depending on complexity of the animation.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you have any interesting stories you can tell us about getting this all put together?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;– &lt;a href=&quot;http://www.reddit.com/user/Sync95&quot;&gt;sync95&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;So we were together in a hotel once and everyone is bored. We decide to play a game called “What sounds most like it would be porn” with the TV guide. We find a good and turn it on. Turns out porn wasn’t removed from the selections. Austin, instead of turning off that channel starts playing “smooth jazz” from his phone. Most awkward moment of my life.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you have any examples of your work? Have any of your animations ever made the front page?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;– &lt;a href=&quot;http://www.reddit.com/user/squeel&quot;&gt;squeel&lt;/a&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We haven’t submitted any animations to reddit yet but examples can be seen at our &lt;a href=&quot;http://www.mixedmediastudios.org/demo.html&quot;&gt;demo page&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Welcome to Mixed Media's Website!</title>
+   <link href="http://mixedmediastudios.org//blog/Welcome"/>
+   <updated>2015-01-06T00:00:00-05:00</updated>
+   <id>http://mixedmediastudios.org//blog/Welcome</id>
+   <content type="html">&lt;p&gt;Welcome to our website. We’ll try to update soon. If you’ve somehow discovered this website before we open please stay tuned. Our official opening will be on 1-6-2015 and we’ll be kicking it off with a Reddit AMA. After that we will update with a more thorough explanation of what we do. Here’s the basics… People wants upvotes, people with OC get upvotes, we make OC.  &lt;/p&gt;
+
+&lt;h2 id=&quot;instant-karma&quot;&gt;Instant Karma.&lt;/h2&gt;
+</content>
+ </entry>
+ 
+
+</feed>
