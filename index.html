@@ -9,30 +9,9 @@ title: Home
 		<div id="home-title" class="site-icon-home" style="background-image: url({{ site.icon }});" data-stellar-ratio="0.5"></div>
 	</a>
 </header>
-<div id="middle">
-<div id="post-list">
-	{% for post in paginator.posts %}
-		<div>
-			<span class="post-date">{{ post.date | date_to_long_string }}</span>
-			<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-			<p class="post-description">{% if post.quote %}{{ post.quote }}{% else %}{{ post.content | strip_html | truncatewords: 50 }}{% endif %}</p>
-		</div>
-		<br>
-	{% endfor %}
-</div>
-<nav class="pagination" role="navigation">
-	{% if paginator.next_page %}
-		<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Older posts</a>
-	{% endif %}
-	<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-	{% if paginator.previous_page %}
-		{% if paginator.page == 2 %}
-			<a class="older-posts" href="{{ site.baseurl }}/">Newer posts &rarr;</a>
-		{% else %}
-			<a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer posts &rarr;</a>
-		{% endif %}
-	{% endif %}
-</nav>
+<div id="middle" align="center">
+<h1>Hi! We're Mixed Media Studios!</h1><h2>The $5 animation studio</h2> Mixed media Studios is an animation studio meant 
+<div class="homeVideo" align ="center"><video id="WTPZmtaXlyQ" class="sublime" poster="http://i.imgur.com/hZvJF0K.jpg" width="640" height="360" data-uid="WTPZmtaXlyQ" data-youtube-id="WTPZmtaXlyQ" data-autoresize="fit" preload="none">Yo, buddy. Update your browser, there should be a video here.</video></div>
 </div>
 <footer class="clean" style="background-image: url({{ site.cover }}); background-position: bottom; height: 60px;">
 	<p class="copyright">&copy;{{ site.time | date: "%Y" }}, <a href="{{ site.copyright.url }}" target="_blank">{{ site.copyright.author }}</a>. <a href="{{ site.copyright.type_url }}" target="_blank">{{ site.copyright.type_title }}</a>.</p>

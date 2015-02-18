@@ -36,6 +36,9 @@ header, footer {
 	z-index: 0;
 	overflow: hidden;
 }
+.homeVideo {
+	width:800px;
+}
 
 .menu {
 	position: fixed;

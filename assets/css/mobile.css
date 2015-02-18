@@ -79,13 +79,13 @@ h2 {
 .older-posts:after {
 	visibility: visible;
 	font-size: 22px;
-	content: "→";
+	content: "â†’";
 }
 
 .newer-posts:before {
 	visibility: visible;
 	font-size: 22px;
-	content: "←";
+	content: "â†";
 }
 
 .copyright {
@@ -97,4 +97,7 @@ h2 {
 table {
 	display: block;
 	overflow: auto;
+}
+.homeVideo {
+	width:300px;
 }
