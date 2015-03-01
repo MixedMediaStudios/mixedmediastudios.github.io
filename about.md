@@ -39,30 +39,7 @@ Hour of work | 20000 XDG
 <a href="http://www.google.com/recaptcha/mailhide/d?k=01D89iqJYnGqa2BPjsi-DvdQ==&amp;c=ZhZkPKYUsd4uqf_05MsBdIKvolGqQ-mTrar2eaJ7r0I=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501D89iqJYnGqa2BPjsi-DvdQ\75\75\46c\75ZhZkPKYUsd4uqf_05MsBdIKvolGqQ-mTrar2eaJ7r0I\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">Email us.</a>
 
 ### Let us contact you
-    <form accept-charset="UTF-8" action="https://madmimi.com/signups/subscribe/134923" id="mad_mimi_signup_form" method="post" target="_blank">
-       <div style="margin:0;padding:0;display:inline">
-          <input name="utf8" type="hidden" value="✓"/>
-       </div>
-       <div class="mimi_field required">
-          <label for="signup_email">Email*</label>
-          <br/>
-          <input id="signup_email" name="signup[email]" type="text" data-required-field="This field is required" placeholder="you@example.com"/>
-       </div>
-       <div class="mimi_field required">
-          <label for="signup_first_name">First Name*</label>
-          <br/>
-          <input id="signup_first_name" name="signup[first_name]" type="text" data-required-field="This field is required"/>
-       </div>
-       <div class="mimi_field required">
-          <label for="signup_last_name">Last Name*</label>
-          <br/>
-          <input id="signup_last_name" name="signup[last_name]" type="text" data-required-field="This field is required"/>
-       </div>
-       <div class="mimi_field">
-          <input type="submit" class="submit" value="Submit" id="webform_submit_button" data-default-text="Submit" data-submitting-text="Sending..." data-invalid-text="↑ You forgot some required fields" data-choose-list="↑ Choose a list" data-thanks="Thank you!">
-</input>
-       </div>
-    </form>
+<form accept-charset="UTF-8" action="https://madmimi.com/signups/subscribe/134923" id="mad_mimi_signup_form" method="post" target="_blank"> <div style="margin:0;padding:0;display:inline"> <input name="utf8" type="hidden" value="✓"/> </div> <div class="mimi_field required"> <label for="signup_email">Email*</label> <br/> <input id="signup_email" name="signup[email]" type="text" data-required-field="This field is required" placeholder="you@example.com"/> </div> <div class="mimi_field required"> <label for="signup_first_name">First Name*</label> <br/> <input id="signup_first_name" name="signup[first_name]" type="text" data-required-field="This field is required"/> </div> <div class="mimi_field required"> <label for="signup_last_name">Last Name*</label> <br/> <input id="signup_last_name" name="signup[last_name]" type="text" data-required-field="This field is required"/> </div> <div class="mimi_field"> <input type="submit" class="submit" value="Submit" id="webform_submit_button" data-default-text="Submit" data-submitting-text="Sending..." data-invalid-text="↑ You forgot some required fields" data-choose-list="↑ Choose a list" data-thanks="Thank you!"></input></div></form>
 <script type="text/javascript">
 !function(){function e(e){if(e&&"FORM"===e.nodeName){var t,i,n=[]
 for(t=e.elements.length-1;t>=0;t-=1)if(""!==e.elements[t].name)switch(e.elements[t].nodeName){case"INPUT":switch(e.elements[t].type){case"text":case"hidden":case"password":case"button":case"reset":case"submit":n.push(e.elements[t].name+"="+encodeURIComponent(e.elements[t].value))
