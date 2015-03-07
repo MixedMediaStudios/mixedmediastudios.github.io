@@ -27,7 +27,7 @@ Second of video | 0.0005 BTC
 Hour of work | 0.01 BTC
 
 #### Litecoin pricing (cheaper, because less fees.)
-![](//i.imgur.com/kRXDHTG.png)
+![](//i.imgur.com/u00aV8G.jpg)
 
 For each | Add this
 --------|--------
