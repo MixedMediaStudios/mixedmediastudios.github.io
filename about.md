@@ -6,7 +6,7 @@ permalink: /about/
 
 ### History
 
-Mixed Media is a group of tstudents with a specialty in computer animation. They can do 2D/3D animation, visual effects, graphic design and probably more. They've competed in the Business Professional of America computer animation team competition and became national finalists. They eventually hope to take this talent from a hobby to a career.
+Mixed Media is a group of students with a specialty in computer animation. They can do 2D/3D animation, visual effects, graphic design and probably more. They've competed in the Business Professional of America computer animation team competition and became national finalists. They eventually hope to take this talent from a hobby to a career.
 
 ### Hiring Information
 
