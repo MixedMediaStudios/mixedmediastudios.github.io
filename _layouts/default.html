@@ -24,6 +24,19 @@
   -->
 	{% include head.html %}
 	<body>
+		<script>
+		  (function() {
+		    var cx = '016442313132588170219:3imccuezc7g';
+		    var gcse = document.createElement('script');
+		    gcse.type = 'text/javascript';
+		    gcse.async = true;
+		    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+		        '//www.google.com/cse/cse.js?cx=' + cx;
+		    var s = document.getElementsByTagName('script')[0];
+		    s.parentNode.insertBefore(gcse, s);
+		  })();
+		</script>
+		<gcse:searchbox-only></gcse:searchbox-only>
 		{{ content }}
 		<script type='text/javascript'>
 		var width = $(window).width()
