@@ -28,15 +28,19 @@ cover:	https://lh4.googleusercontent.com/-d2_moJjARgs/VIzbGUwrF0I/AAAAAAAAAFg/J_
 social:
   - icon:	facebook
     url:	https://facebook.com/TheMixedMediaStudios
-    desc:	Follow me on facebook
+    desc:	Follow us on facebook
+    
+    - icon:	twitter
+    url:	https://twitter.com/MixedStudios
+    desc:	Follow us on twitter
 
   - icon:	github
     url:	https://github.com/MixedMediaStudios
-    desc:	Fork me on github
+    desc:	Fork us on github
 
   - icon:	googleplus-alt
     url:	https://plus.google.com/b/117832163283159184453/117832163283159184453/
-    desc:	Add me on google+
+    desc:	Add us on google+
 
   - icon:	feed
     url:	http://mixedmediastudios.org/atom.xml
