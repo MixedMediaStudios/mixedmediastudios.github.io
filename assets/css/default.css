@@ -551,5 +551,6 @@ pre code {
 }
 #search {
 	padding:20px 0 20px 0;
-	width:99%;
+	width:95%;
+	align: center;
 }
