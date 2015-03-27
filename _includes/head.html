@@ -70,6 +70,17 @@ You probably are here because you want to know how we made the site:
 		
 	</script>
 	{% endif %}
+	<script type="application/ld+json">
+	{ "@context" : "http://schema.org",
+	  "@type" : "Organization",
+	  "name" : "Mixed Media Studios",
+	  "url" : "http://www.mixedmediastudios.org/",
+	  "logo" : "https://avatars1.githubusercontent.com/u/10189614?v=3&s=500",
+	  "email" : "us@mixedmediastudios.org",
+	  "sameAs" : [ "http://www.facebook.com/TheMixedMediaStudios",
+	    "https://twitter.com/MixedStudios",    "https://plus.google.com/b/117832163283159184453/117832163283159184453/"]
+	}
+	</script>
 	<script type="text/javascript" src="//cdn.sublimevideo.net/js/nir3dm8z.js"></script>
 	<!-- Theme Color for Chrome on Android Lollipop -->
 	<meta name="theme-color" content="#{% if page.theme_color %}{{ page.theme_color }}{% else %}{{ site.theme_color }}{% endif %}">
