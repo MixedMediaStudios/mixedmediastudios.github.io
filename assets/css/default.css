@@ -555,7 +555,7 @@ pre code {
 	align: center;
 }
 
-.vjs-watermark {
+.vjs-watermark, .rem-logo {
         opacity:0;
         transform:scale(0);
 }
