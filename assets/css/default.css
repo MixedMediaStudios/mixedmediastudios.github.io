@@ -1,4 +1,4 @@
-html, body, div, span, applet, object, iframe, caption, p {
+﻿html, body, div, span, applet, object, iframe, caption, p {
 	margin: 0 0 0 0;
 	border: 0 0 0 0;
 	font: inherit;
@@ -553,4 +553,9 @@ pre code {
 	padding:20px 0 20px 0;
 	width:95%;
 	align: center;
+}
+
+.vjs-watermark {
+        opacity:0;
+        transform:scale(0);
 }
