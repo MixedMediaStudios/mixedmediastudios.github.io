@@ -60,8 +60,8 @@ menu:
 copyright:
   author:	Mixed Media Studios
   url:		http://www.mixedmediastudios.org
-  type_title:	Site design forked from Camporez, some rights reserved
-  type_url:	https://github.com/camporez/Thinny
+  type_title:	Proudly made with valid HTML5
+  type_url:	http://validator.w3.org/check?uri=http%3A%2F%2Fwww.mixedmediastudios.org%2F
 
 # Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
 google_analytics: UA-57707910-1
