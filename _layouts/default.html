@@ -14,6 +14,11 @@
 			verticalOffset: 0,
 			positionProperty: 'transform',
 			});
+			var videos = document.getElementsByTagName("iframe");
+			for (var i = 0; i < videos.length; i++) { 
+			var status = videos[i].setAttribute("width", "640");
+			var status = videos[i].setAttribute("height", "360");
+			}
 		})
 		</script>
 	</body>
