@@ -559,11 +559,3 @@ pre code {
         opacity:0;
         transform:scale(0);
 }
-
-#middle {
-  display: block;
-  text-align: center;
-  text-align: -moz-center;
-  text-align: -ms-center;
-  text-align: -webkit-center;
-}
