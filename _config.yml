@@ -52,8 +52,7 @@ menu:
 
   - title:	About
     url:	/about
-  - title: Demos
-    url: /demo.html
+    
   - title: Blog
     url: /blog/
 
