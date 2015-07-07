@@ -1,4 +1,4 @@
-@import url(default.css);
+﻿@import url(default.css);
 header, footer {
 	background-attachment: scroll;
 }
@@ -47,11 +47,7 @@ h2 {
 
 .menu-content {
 	display: block;
-	width: 100%;
-	top: 0px;
-	left: 0px;
 	padding: 10px 0 0 0;
-	position: relative;
 }
 
 .menu-title {
