@@ -14,7 +14,7 @@ Mixed Media is a group of students with a specialty in computer animation. They 
 ![](http://thecookiecatcher.com/wp-content/uploads/2014/08/PayPal_Logo.jpg)
 
 | For each | Add this |
---------|--------
+| --------|-------- |
 | Second of video | $0.50 USD |
 | Hour of work | $2.50 USD |
 
@@ -22,7 +22,7 @@ Mixed Media is a group of students with a specialty in computer animation. They 
 ![](//i.imgur.com/wQQPl8D.png)
 
 | For each | Add this |
---------|--------
+| --------|-------- |
 | Second of video | 0.0005 BTC |
 | Hour of work | 0.01 BTC |
 
@@ -30,7 +30,7 @@ Mixed Media is a group of students with a specialty in computer animation. They 
 ![](//i.imgur.com/u00aV8G.jpg)
 
 | For each | Add this |
---------|--------
+| --------|-------- |
 | Second of video | 0.25 LTC |
 | Hour of work | 1 LTC |
 
@@ -38,7 +38,7 @@ Mixed Media is a group of students with a specialty in computer animation. They 
 ![](//i.imgur.com/QYzkChT.png)
 
 | For each | Add this |
---------|--------
+| --------|-------- |
 | Second of video | 2000 XDG |
 | Hour of work | 20000 XDG |
 
