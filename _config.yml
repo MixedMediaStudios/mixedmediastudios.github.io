@@ -1,5 +1,7 @@
 # Dependencies
-markdown:	redcarpet
+markdown: redcarpet
+redcarpet:
+  extensions: [tables]
 # Permalinks
 permalink:	/blog/:title
 
