@@ -2,6 +2,7 @@
 markdown: redcarpet
 redcarpet:
   extensions: [tables]
+exclude: [vendor]
 # Permalinks
 permalink:	/blog/:title
 
