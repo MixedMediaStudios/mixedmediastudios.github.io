@@ -16,7 +16,7 @@ article: true
 		{% if page.quote %}
 			<h2>{{ page.quote }}</h2>
 		{% endif %}
-		{% if page.author %}<a class="site-title" href="{{ site.url }}{{ site.baseurl }}"><div class="site-icon-small" style="background-image: url({{ site.icon }});"></div>{{ page.author }}</a>, in {{ page.date | date_to_long_string }} {% else %}<a class="site-title" href="{{ site.url }}{{ site.baseurl }}"><div class="site-icon-small" style="background-image: url({{ site.icon }});"></div>{{ site.title }}</a>, in {{ page.date | date_to_long_string }} {% endif %}
+		{% if page.author %}{% assign author = site.data.people[page.author] %}<a class="site-title" href="{{ author.github }}"><div class="site-icon-small" style="background-image: url({{ author.picture }});"></div>{{ author.name }}</a>, in {{ page.date | date_to_long_string }} {% else %}<a class="site-title" href="{{ site.url }}{{ site.baseurl }}"><div class="site-icon-small" style="background-image: url({{ site.icon }});"></div>{{ site.title }}</a>, in {{ page.date | date_to_long_string }} {% endif %}
 	</div>
 	{% if page.image.source %}
 	<div id="img-info" data-stellar-ratio="0.5">
