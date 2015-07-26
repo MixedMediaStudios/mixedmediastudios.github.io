@@ -1,10 +1,10 @@
 # as specified in http://jekyllrb.com/docs/datafiles/
 owen:
-	name: Owen Walters
-	github: https://github.com/10by10pixel
-	picture: https://avatars2.githubusercontent.com/u/5394990?v=3&s=48
+        name: Owen Walters
+        github: https://github.com/10by10pixel
+        picture: https://avatars2.githubusercontent.com/u/5394990?v=3&s=48
 	
 austin:
-	name: Austin Helton
-	github: https://github.com/SirModemDials
-	picture: https://avatars0.githubusercontent.com/u/10223613?v=3&s=48
+        name: Austin Helton
+        github: https://github.com/SirModemDials
+        picture: https://avatars0.githubusercontent.com/u/10223613?v=3&s=48
