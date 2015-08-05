@@ -3,6 +3,8 @@ markdown: redcarpet
 redcarpet:
   extensions: [tables]
 exclude: [vendor]
+gems:
+  - jekyll-sitemap
 # Permalinks
 permalink:	blog/:title
 
