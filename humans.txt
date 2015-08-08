@@ -1,0 +1,13 @@
+---
+sitemap: exclude
+---
+
+/* TEAM */
+{% for author in site.data.authors %}
+  {{ author.role }}:{{ author.name }}
+{% endfor %}
+
+/* SITE INFO */
+Site theme: Thinny
+Theme author: Camporez
+Source: https://github.com/MixedMediaStudios/mixedmediastudios.github.io
