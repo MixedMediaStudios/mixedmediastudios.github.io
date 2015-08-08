@@ -4,7 +4,7 @@ sitemap: exclude
 
 /* TEAM */
 {% for author in site.data.authors %}
-  {{ author.role }}:{{ author.name }}
+  {{ author.role }}: {{ author.name }}
 {% endfor %}
 
 /* SITE INFO */
