@@ -6,6 +6,7 @@ sitemap: exclude
 {% for author in site.data.authors %}
   {{ author.role }}: {{ author.name }}
 {% endfor %}
+</ul>
 
 /* SITE INFO */
 Site theme: Thinny
