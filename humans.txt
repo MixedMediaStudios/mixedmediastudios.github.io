@@ -9,6 +9,8 @@ sitemap: exclude
 {% endfor %}
 
 /* SITE INFO */
-Site theme: Thinny
-Theme author: Camporez
-Source: https://github.com/MixedMediaStudios/mixedmediastudios.github.io
+  Site theme: Thinny
+  Theme author: Camporez
+  Source: https://github.com/MixedMediaStudios/mixedmediastudios.github.io
+  Doctype: HTML5
+  Last update: {{ site.time | date_to_string }}
