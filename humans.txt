@@ -5,7 +5,7 @@ sitemap: exclude
 /* TEAM */
 {% for author_entry in site.data.authors %}{% assign author = author_entry[1] %}
   {{ author.role }}: {{ author.name }}
-  Github: {{ author.github }}
+  Github: {% if author.github %}{{ author.github }}{% else %}None{% endif %}
 {% endfor %}
 
 /* SITE INFO */
