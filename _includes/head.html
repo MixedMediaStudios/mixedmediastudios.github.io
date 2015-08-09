@@ -2,6 +2,7 @@
 <head>
 	{% capture canonical %}{{ site.url }}{{ site.baseurl }}{% if site.permalink contains '.html' %}{{ page.url }}{% elsif site.permalink contains category_dir %}{{ '/' | page.url | remove:'index.html' | '/' }}{% else %}{{ page.url | remove:'index.html' | '/' }}{% endif %}{% endcapture %}
 	<link href="//gmpg.org/xfn/11" rel="profile">
+	<link type="text/plain" rel="author" href="http://www.mixedmediastudios.org/humans.txt" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">{% if page.article %}
 	<link rel="canonical" href="{{ canonical }}" />
 	<meta name="language" content="English">
