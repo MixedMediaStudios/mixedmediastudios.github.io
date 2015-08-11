@@ -15,23 +15,23 @@ Mixed Media is a group of students with a specialty in computer animation. They 
 
 For each | Add this
 --------|--------
-Second of video | $0.50 USD
-Hour of work | $2.50 USD
+Second of video | $1.00 USD
+Hour of work | $5.00 USD
 
 #### Bitcoin pricing (cheaper, because less fees.)
 ![](//i.imgur.com/wQQPl8D.png)
 
 For each | Add this
 --------|--------
-Second of video | 0.0005 BTC
-Hour of work | 0.01 BTC
+Second of video | 0.001 BTC
+Hour of work | 0.02 BTC
 
 #### Litecoin pricing (cheaper, because less fees.)
 ![](//i.imgur.com/u00aV8G.jpg)
 
 For each | Add this
 --------|--------
-Second of video | 0.25 LTC
+Second of video | 0.5 LTC
 Hour of work | 1 LTC
 
 #### Dogecoin pricing (cheaper, because less fees.)
@@ -39,8 +39,8 @@ Hour of work | 1 LTC
 
 For each | Add this
 --------|--------
-Second of video | 2000 XDG
-Hour of work | 20000 XDG
+Second of video | 5000 XDG
+Hour of work | 50000 XDG
 
 ### Contact us
 
