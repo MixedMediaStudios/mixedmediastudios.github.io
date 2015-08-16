@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hire Mixed Media
-permalink: /l_p
+permalink: /lp
 sitemap: exclude
 ---
 <h1><em>"Great experience working with you. Got many complements on the stream."</em></h1>
