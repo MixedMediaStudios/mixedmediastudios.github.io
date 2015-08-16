@@ -7,7 +7,7 @@ title: Blog
 	{% for post in paginator.posts %}
 		<div>
 			<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-			<span class="post-date">{% if post.author %}{% assign author = site.data.authors[post.author] %}<span class="site-icon-small" style="background-image: url({{ author.picture }});"></span> <a href="{{ author.github }}">{{ author.name }}</a>{% else %}<span class="site-icon-small" style="background-image: url({{ site.icon }});"></span><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>{% endif %} - {{ post.date | date_to_long_string }}</span>
+			<span class="post-date">{% if post.author %}{% assign author = site.data.authors[post.author] %}<span class="site-icon-small" style="background-image: url({{ author.picture }});"></span> <a href="{{ author.github }}"><span id="author-name">{{ author.name }}</span></a>{% else %}<span class="site-icon-small" style="background-image: url({{ site.icon }});"></span><a href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>{% endif %} - {{ post.date | date_to_long_string }}</span>
 			<p class="post-description">{% if post.quote %}{{ post.quote }}{% else %}{{ post.content | strip_html | truncatewords: 50 }}{% endif %}</p>
 		</div>
 		<br>
