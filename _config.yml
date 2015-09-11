@@ -5,6 +5,7 @@ redcarpet:
 exclude: [vendor]
 gems:
   - jekyll-sitemap
+  - jekyll-feed
 # Permalinks
 permalink:	blog/:title
 
