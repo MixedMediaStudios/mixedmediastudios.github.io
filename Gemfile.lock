@@ -31,7 +31,7 @@ GEM
       github-pages-health-check (~> 0.2)
       jekyll (= 2.4.0)
       jekyll-coffeescript (= 1.0.1)
-      jekyll-feeds(= 0.3.1)
+      jekyll-feed (= 0.3.1)
       jekyll-mentions (= 0.2.1)
       jekyll-redirect-from (= 0.6.2)
       jekyll-sass-converter (= 1.2.0)
