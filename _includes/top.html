@@ -1,7 +1,7 @@
 <div class="menu-content">
 	<p class="menu-title">{{ site.title }}<p>
 	{% for item in site.menu %}
-		<a href="{{ item.url }}"><span class="genericon genericon-{{ item.icon }}"></span>{{ item.title }}</a>
+		<a href="{{ item.url }}"><span class="genericon genericon-{{ item.icon }}" style="vertical-align: middle;"></span>{{ item.title }}</a>
 	{% endfor %}
 	<hr>
 	{% for social in site.social %}
