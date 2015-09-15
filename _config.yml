@@ -55,12 +55,15 @@ social:
 menu:
   - title:	Home
     url:	/
+    icon: home
 
   - title:	About
     url:	/about
+    icon: info
     
   - title: Blog
     url: /blog/
+    icon: book
 
 copyright:
   author:	Mixed Media Studios
