@@ -1,6 +1,6 @@
 ---
 ---
-@import 'default';
+{% include_relative default.css %}
 
 header, footer {
 	background-attachment: fixed;
