@@ -1,6 +1,7 @@
 ---
 ---
 {% include_relative default.css %}
+{% include_relative syntax.css %}
 header, footer {
 	background-attachment: scroll;
 }
