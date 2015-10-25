@@ -27,8 +27,8 @@ paginate:	10
 paginate_path: "blog/page:num/"
 
 # Custom vars
-icon:		https://avatars1.githubusercontent.com/u/10189614?v=3&amp;s=500
-cover:	https://lh4.googleusercontent.com/-d2_moJjARgs/VIzbGUwrF0I/AAAAAAAAAFg/J_500ckvaYc/w1920-h1080-no/cover.jpg
+icon:		//avatars1.githubusercontent.com/u/10189614?v=3&amp;s=500
+cover:	//lh4.googleusercontent.com/-d2_moJjARgs/VIzbGUwrF0I/AAAAAAAAAFg/J_500ckvaYc/w1920-h1080-no/cover.jpg
 # /Thinny/assets/images/cover.jpg
 
 social:
@@ -49,7 +49,7 @@ social:
     desc:	Add us on google+
 
   - icon:	feed
-    url:	http://mixedmediastudios.org/atom.xml
+    url:	\/atom.xml
     desc:	Subscribe to my feed
 
 menu:
