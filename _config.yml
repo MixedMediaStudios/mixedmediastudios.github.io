@@ -28,7 +28,7 @@ paginate_path: "blog/page:num/"
 
 # Custom vars
 icon:		//avatars1.githubusercontent.com/u/10189614?v=3&amp;s=500
-cover:	//lh4.googleusercontent.com/-d2_moJjARgs/VIzbGUwrF0I/AAAAAAAAAFg/J_500ckvaYc/w1920-h1080-no/cover.jpg
+cover:	https://lh3.googleusercontent.com/DOQYRTFRsAH3nwMeYfiNECCzxrFfbwi7k6eu4IDghlM=s1000
 # /Thinny/assets/images/cover.jpg
 
 social:
