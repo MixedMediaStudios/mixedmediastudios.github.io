@@ -21,7 +21,7 @@
 			detailsHTML: "<img src=\"{{ author.picture }}\" width=\"200px\" alt=\"Picture of {{ author.name }}\"><br />{{ author.name }} is the {{ author.role }} at Mixed Media Studios. {% if author.github %}<br/> Github profile: <a href=\"{{ author.github }}\">{{ author.github }}</a>{% endif %}"
 		})
 		{% endfor %}
-		$('.{{ mms }}').hovercard({
+		$('.mms').hovercard({
 			detailsHTML: "<img src=\"{{ site.icon }}\" width=\"200px\" alt=\"Picture of {{ site.title }}\"><br />{{ site.title }} is the official blog profile for Mixed Media Studios."
 		})
 		</script>
