@@ -1,78 +1,58 @@
-# Dependencies
+---
 markdown: redcarpet
 redcarpet:
-  extensions: [tables]
-exclude: [vendor]
+  extensions:
+  - tables
+exclude:
+- vendor
 gems:
-  - jekyll-sitemap
-  - jekyll-feed
-# Permalinks
-permalink:	blog/:title
-
-# Setup
-baseurl: 
-
-title:		Mixed Media Studios
-tagline:	'The affordable animation studio'
-description:	'Your own personal animation studio'
-url:		http://mixedmediastudios.org
-commentsystem:	disqus
-disqus:		mixedmediastudios
-
+- jekyll-sitemap
+- jekyll-feed
+permalink: blog/:title
+baseurl: ''
+title: Mixed Media Studios
+tagline: The affordable animation studio
+description: Your own personal animation studio
+url: http://uubcc-dx7mzxtg.preview.forestry.io
+commentsystem: disqus
+disqus: mixedmediastudios
 author:
-  name:		'Mixed Media Studios'
-  url:		http://www.mixedmediastudios.org/
-
-paginate:	10
-paginate_path: "blog/page:num/"
-
-# Custom vars
-icon:		//avatars1.githubusercontent.com/u/10189614?v=3&amp;s=500
-cover:	https://lh3.googleusercontent.com/DOQYRTFRsAH3nwMeYfiNECCzxrFfbwi7k6eu4IDghlM=s1000
-# /Thinny/assets/images/cover.jpg
-
+  name: Mixed Media Studios
+  url: http://www.mixedmediastudios.org/
+paginate: 10
+paginate_path: blog/page:num/
+icon: "//avatars1.githubusercontent.com/u/10189614?v=3&amp;s=500"
+cover: https://lh3.googleusercontent.com/DOQYRTFRsAH3nwMeYfiNECCzxrFfbwi7k6eu4IDghlM=s1000
 social:
-  - icon:	facebook
-    url:	https://facebook.com/TheMixedMediaStudios
-    desc:	Follow us on facebook
-    
-  - icon:	twitter
-    url:	https://twitter.com/MixedStudios
-    desc:	Follow us on twitter
-
-  - icon:	github
-    url:	https://github.com/MixedMediaStudios
-    desc:	Fork us on github
-
-  - icon:	googleplus-alt
-    url:	https://plus.google.com/b/117832163283159184453/117832163283159184453/
-    desc:	Add us on google+
-
-  - icon:	feed
-    url:	\/atom.xml
-    desc:	Subscribe to my feed
-
+- icon: facebook
+  url: https://facebook.com/TheMixedMediaStudios
+  desc: Follow us on facebook
+- icon: twitter
+  url: https://twitter.com/MixedStudios
+  desc: Follow us on twitter
+- icon: github
+  url: https://github.com/MixedMediaStudios
+  desc: Fork us on github
+- icon: googleplus-alt
+  url: https://plus.google.com/b/117832163283159184453/117832163283159184453/
+  desc: Add us on google+
+- icon: feed
+  url: "\\/atom.xml"
+  desc: Subscribe to my feed
 menu:
-  - title:	Home
-    url:	/
-    icon: home
-
-  - title:	About
-    url:	/about
-    icon: info
-    
-  - title: Blog
-    url: /blog/
-    icon: book
-
+- title: Home
+  url: "/"
+  icon: home
+- title: About
+  url: "/about"
+  icon: info
+- title: Blog
+  url: "/blog/"
+  icon: book
 copyright:
-  author:	Mixed Media Studios
-  url:		http://www.mixedmediastudios.org
-  type_title:	Proudly made with valid HTML5
-  type_url:	http://validator.w3.org/check?uri=http%3A%2F%2Fwww.mixedmediastudios.org%2F
-
-# Google Analytics (add the UA Code, e.g.: UA-xxxxxxxx-1)
+  author: Mixed Media Studios
+  url: http://www.mixedmediastudios.org
+  type_title: Proudly made with valid HTML5
+  type_url: http://validator.w3.org/check?uri=http%3A%2F%2Fwww.mixedmediastudios.org%2F
 google_analytics: UA-57707910-1
-
-# Default Theme Color for Chrome on Android Lollipop (Use RGB ColorCode without `#`, e.g.: `db5945`)
 theme_color: 7E9576

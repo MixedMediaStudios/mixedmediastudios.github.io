@@ -1,20 +1,19 @@
-# as specified in http://jekyllrb.com/docs/datafiles/
+---
 owen:
-        name: Owen Walters
-        id: owen
-        role: Founder/Webmaster
-        github: https://github.com/10by10pixel
-        picture: https://avatars2.githubusercontent.com/u/5394990?v=3&s=250
-
+  name: Owen Walters
+  id: owen
+  role: Founder/Webmaster
+  github: https://github.com/10by10pixel
+  picture: https://avatars2.githubusercontent.com/u/5394990?v=3&s=250
 austin:
-        name: Austin Helton
-        id: austin
-        role: Captain/Animator
-        github: https://github.com/SirModemDials
-        picture: https://avatars0.githubusercontent.com/u/10223613?v=3&s=250
+  name: Austin Helton
+  id: austin
+  role: Captain/Animator
+  github: https://github.com/SirModemDials
+  picture: https://avatars0.githubusercontent.com/u/10223613?v=3&s=250
 elijah:
-        name: Elijah Nolan
-        id: elijah
-        role: Animating Underling
-        github: 
-        picture: http://i.imgur.com/LhAskhd.jpg
+  name: Elijah Nolan
+  id: elijah
+  role: Animating Underling
+  github: 
+  picture: http://i.imgur.com/LhAskhd.jpg
