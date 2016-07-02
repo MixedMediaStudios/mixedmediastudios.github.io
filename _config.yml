@@ -37,7 +37,7 @@ social:
   url: https://plus.google.com/b/117832163283159184453/117832163283159184453/
   desc: Add us on google+
 - icon: feed
-  url: "\/atom.xml"
+  url: "/atom.xml"
   desc: Subscribe to my feed
 menu:
 - title: Home
