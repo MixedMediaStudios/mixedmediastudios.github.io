@@ -1,0 +1,31 @@
+---
+title: Owen's posts
+layout: page
+draft: false
+
+---
+<div id="post-list">
+	{% for post in paginator.posts %}
+	{% if post.author == "owen" %}
+		<div>
+			<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+			<span class="post-date">{% if post.author %}{% assign author = site.data.authors[post.author] %}<span class="site-icon-small" style="background-image: url({{ author.picture }});"></span> <a href="{{ author.github }}"><span class="author-name {{ author.id }}">{{ author.name }}</span></a>{% else %}<span class="site-icon-small" style="background-image: url({{ site.icon }});"></span><a href="{{ site.url }}{{ site.baseurl }}"><span class="author-name mms">{{ site.title }}</span></a>{% endif %} - {{ post.date | date_to_long_string }}</span>
+			<p class="post-description">{% if post.quote %}{{ post.quote }}{% else %}{{ post.content | strip_html | truncatewords: 50 }}{% endif %}</p>
+		</div>
+		<br>
+	{% endif %}
+	{% endfor %}
+</div>
+<nav class="pagination">
+	{% if paginator.next_page %}
+		<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Older posts</a>
+	{% endif %}
+	<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+	{% if paginator.previous_page %}
+		{% if paginator.page == 2 %}
+			<a class="older-posts" href="{{ site.baseurl }}/">Newer posts &rarr;</a>
+		{% else %}
+			<a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer posts &rarr;</a>
+		{% endif %}
+	{% endif %}
+</nav>
