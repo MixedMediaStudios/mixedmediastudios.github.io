@@ -5,7 +5,7 @@ draft: false
 permalink: blog/authors/owen
 ---
 <div id="post-list">
-	{% assign posts = paginator.posts | where: "author", "owen" %}
+	{% assign posts = (paginator.posts | where: "author", "owen") %}
 	{% for post in posts %}
 		<div>
 			<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
