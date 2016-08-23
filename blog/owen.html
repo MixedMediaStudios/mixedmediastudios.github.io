@@ -5,7 +5,7 @@ draft: false
 permalink: blog/authors/owen
 ---
 <div id="post-list">
-	{% assign posts = (paginator.posts | where: "author", "owen") %}
+	{% assign posts = (site.posts | where: "author", "owen") %}
 	{% for post in posts %}
 		<div>
 			<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
@@ -15,16 +15,3 @@ permalink: blog/authors/owen
 		<br>
 	{% endfor %}
 </div>
-<nav class="pagination">
-	{% if paginator.next_page %}
-		<a class="newer-posts" href="{{ site.baseurl }}/page{{paginator.next_page}}">&larr; Older posts</a>
-	{% endif %}
-	<span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-	{% if paginator.previous_page %}
-		{% if paginator.page == 2 %}
-			<a class="older-posts" href="{{ site.baseurl }}/">Newer posts &rarr;</a>
-		{% else %}
-			<a class="older-posts" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer posts &rarr;</a>
-		{% endif %}
-	{% endif %}
-</nav>
