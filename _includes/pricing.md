@@ -1,3 +1,6 @@
+#### Paypal pricing
+![](http://thecookiecatcher.com/wp-content/uploads/2014/08/PayPal_Logo.jpg)
+
 For each | Add this
 --------|--------
 Second of video | $0.10 USD
