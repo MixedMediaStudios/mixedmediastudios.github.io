@@ -13,7 +13,7 @@ sitemap: exclude
   Site theme: Thinny
   Theme author: Camporez
   
-  Source: {{ site.github.url }}
+  Source: https://github.com/MixedMediaStudios/mixedmediastudios.github.io
   Doctype: HTML5
   
   Last update: {{ site.time | date_to_string }}
