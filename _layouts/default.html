@@ -8,7 +8,7 @@ layout: compress
 	<body>
 		{{ content }}
 		<script type='text/javascript'>
-		var width=$(window).width();width>899&&$(function(){$.stellar({responsive:!0,verticalScrolling:!0,horizontalOffset:0,verticalOffset:0,positionProperty:"transform",hideDistantElements:!1})});
+		var width=$(window).width();width>899&&$(function(){$.stellar({responsive:0,verticalScrolling:0,horizontalOffset:0,verticalOffset:0,positionProperty:"transform",hideDistantElements:1})});
 		{% for author_entry in site.data.authors %}{% assign author = author_entry[1] %}
 		$('.{{ author.id }}').hovercard({
 			detailsHTML: "<img src=\"{{ author.picture }}\" width=\"200px\" alt=\"Picture of {{ author.name }}\"><br />{{ author.name }} is the {{ author.role }} at {{ site.title }}. {% if author.github %}<br/> Github profile: <a href=\"{{ author.github }}\">{{ author.github }}</a>{% endif %}"
