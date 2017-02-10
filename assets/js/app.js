@@ -1,3 +1,6 @@
+---
+  #CAREFUL
+---
 var width = $(window).width()
 if ( width > 899 )
 $( function(){
