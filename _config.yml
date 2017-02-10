@@ -10,6 +10,8 @@ title: Mixed Media Studios
 tagline: The affordable animation studio
 description: Your own personal animation studio
 url: http://www.mixedmediastudios.org/
+compress_html:
+  comments: ["<!-- ", " -->"]
 commentsystem: disqus
 disqus: mixedmediastudios
 author:
