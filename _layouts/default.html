@@ -7,17 +7,7 @@ layout: compress
 	{% include head.html %}
 	<body>
 		{{ content }}
-		<script type='text/javascript'>
-		var width=$(window).width();width>899&&$(function(){$.stellar({responsive:0,verticalScrolling:0,horizontalOffset:0,verticalOffset:0,positionProperty:"transform",hideDistantElements:1})});
-		{% for author_entry in site.data.authors %}{% assign author = author_entry[1] %}
-		$('.{{ author.id }}').hovercard({
-			detailsHTML: "<img src=\"{{ author.picture }}\" width=\"200px\" alt=\"Picture of {{ author.name }}\"><br />{{ author.name }} is the {{ author.role }} at {{ site.title }}. {% if author.github %}<br/> Github profile: <a href=\"{{ author.github }}\">{{ author.github }}</a>{% endif %}"
-		})
-		{% endfor %}
-		$('.mms').hovercard({
-			detailsHTML: "<img src=\"{{ site.icon }}\" width=\"200px\" alt=\"Picture of {{ site.title }}\"><br /> The official blog profile for {{ site.title }}."
-		})
-		</script>
+		<script src='/assets/js/app.js'></script>
 		<script src="https://dash.unbeatable.com/widget/widget.js?id=7ca9-cb0b-ba45-947b" async></script>
 	</body>
 </html>
