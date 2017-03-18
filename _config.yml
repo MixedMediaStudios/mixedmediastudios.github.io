@@ -4,7 +4,7 @@ exclude:
 gems:
 - jekyll-sitemap
 - jekyll-feed
-- jekyll-seo
+- jekyll-seo-tag
 permalink: blog/:title
 baseurl: ''
 title: Mixed Media Studios
