@@ -6,6 +6,7 @@ gems:
 - algoliasearch-jekyll
 - jekyll-feed
 - jekyll-seo-tag
+- jekyll-paginate
 permalink: blog/:title
 baseurl: ''
 title: Mixed Media Studios
