@@ -3,6 +3,7 @@ exclude:
 - vendor
 gems:
 - jekyll-sitemap
+- algoliasearch-jekyll
 - jekyll-feed
 - jekyll-seo-tag
 permalink: blog/:title
