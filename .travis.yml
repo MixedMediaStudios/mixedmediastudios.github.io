@@ -1,6 +1,7 @@
 language: ruby
 cache: bundler
 script:
+  - "bundle install"
   - "bundle exec jekyll build --safe --verbose"
   - "bundle exec jekyll algolia push"
 rvm:
