@@ -3,7 +3,6 @@ exclude:
 - vendor
 plugins:
 - jekyll-sitemap
-- jekyll-feed
 - jekyll-seo-tag
 - jekyll-paginate
 permalink: blog/:title
