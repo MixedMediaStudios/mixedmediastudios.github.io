@@ -4,7 +4,7 @@
 
 For each | Add this
 --------|--------
-Second of video | $0.10 USD
+Second of video | $0.10 (up to $5) USD
 Hour of work | $20.00 USD
 
 #### Bitcoin pricing (cheaper, because less fees.)
